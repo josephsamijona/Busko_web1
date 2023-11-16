@@ -13,9 +13,9 @@ alt = Doclab home
 aria-label = clsoe menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
-Home
-Doctors
-Services
+Maison
+Médecins
+Prestations de service
 Blog
 Contact
 
@@ -28,7 +28,7 @@ Contact
 aria-label = open menu
 <ion-icon name="menu-outline"></ion-icon>
 
-Make Appointment
+se connecter
 
 
 
@@ -80,7 +80,7 @@ Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta an
 
 Vision
 Mission
-Strategy
+Stratégie
 
 Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum
 
@@ -104,23 +104,23 @@ Browse by specialist
 
 alt = icon
 
-Psychiatry
-Porta velit
+Clinique Mobile
+ 
 
-Gynecology
-Mattis augue
+Medcine scolaire
+ 
 
-Pulmonology
-Mauris laoreet
+Laboratoire ambulant
+ 
 
-Orthopedics
-Convallis vulputate
+Consultation a domicile
+ 
 
-Pediatrics
-Posuere maecenas
+Electrocardiogramme ECG
 
-Osteology
-Nisi nullam
+
+
+
 
 
 
@@ -156,18 +156,18 @@ alt = Doclab home
 
 <ion-icon name="mail-open-outline"></ion-icon>
 Main Email :
-contact@website.com
+lelaboht@gmail.com
 
 Inquiries :
-Info@mail.com
+lelaboht@gmail.com
 
 <ion-icon name="call-outline"></ion-icon>
 
 Office Telephone :
-0029129102320
++509 3673-0151
 
 Mobile :
-000 2324 39493
++509 4710-0077
 
 About Us
 
@@ -175,36 +175,36 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
 
 <ion-icon name="map-outline"></ion-icon>
 
-2416 Mapleview Drive
-Tampa, FL 33634
+120, Ave Christophe     
+Polyclinique sapiens
 
-Services
-
-Conditions
-Listing
-How It Works
-What We Offer
-Latest News
-Contact Us
-
-Useful Links
+Prestations de service
 
 Conditions
-Terms of Use
-Our Services
-Join as a Doctor
-New Guests List
-The Team List
+Référencement
+Comment ça fonctionne
+Ce que nous offrons
+Dernières nouvelles
+Contactez-nous
 
-Subscribe
+Liens utiles
+
+Conditions
+Conditions d'utilisation
+Nos services
+Rejoignez-nous en tant que médecin
+Nouvelle liste d'invités
+La liste des équipes
+
+S'abonner
 
 placeholder = Email
 
-Subscribe 
+S'abonner
 
-Get the latest updates via email. Any time you may unsubscribe
+Obtenez les dernières mises à jour par courriel. Vous pouvez vous désinscrire à tout moment
 
-&copy; Doclab 2022 | All Rights Reserved by codewithsadee
+&copy; LE labo 2023  |Tous droits réservés par BUSKO
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
